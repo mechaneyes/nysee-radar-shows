@@ -1,7 +1,7 @@
-# Rafael Lozano-Hemmer
-### _Caressing the Circle_
+## Rafael Lozano-Hemmer
+#### _Caressing the Circle_
 
-## [bitforms gallery](https://bitforms.art/exhibition/rlh-caressing-the-circle/)
+### [bitforms gallery](https://bitforms.art/exhibition/rlh-caressing-the-circle/)
 
 September 4–Oct 26, 2024
 
